@@ -2,15 +2,6 @@
 
 A powerful web scraper designed to collect information about food pantries, soup kitchens, and other food assistance resources across San Francisco and surrounding areas.
 
-## Features
-
-- **Multi-source crawling**: Intelligently follows relevant links from seed URLs to discover food resources
-- **Smart data extraction**: Identifies food resource information even in unstructured content
-- **Address validation**: Ensures only resources with valid addresses are included
-- **Advanced deduplication**: Merges similar entries using name/address matching algorithms
-- **Data filtering**: Uses OpenAI to validate real food locations vs. false positives
-- **Multiple output formats**: Saves data in both CSV and JSON formats
-
 ## Requirements
 
 - Python 3.7+
