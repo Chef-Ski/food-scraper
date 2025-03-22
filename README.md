@@ -101,12 +101,6 @@ The scraper collects the following information when available:
 - Eligibility requirements
 - Data source information
 
-## Notes
-
-- The scraper uses a headless Chrome browser; ensure your system can run Chrome
-- An OpenAI API key is recommended for optimal filtering results
-- The scraping process may take several hours to complete depending on your settings
-
 ## License
 
 MIT
